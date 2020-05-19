@@ -1,0 +1,35 @@
+{
+    "estatus": "ACTIVO",
+    "titulo": null,
+    "calificacion": null,
+    "direccion": {
+        "nomDomicilio": null,
+        "calle": null,
+        "referencias": null,
+        "longitud": null,
+        "latitud": null
+    },
+    "telefonos": [
+        {
+            "numTelefono": null,
+            "tipoTel": null
+        }
+    ],
+    "vinculos": [
+        ""
+    ],
+    "categorias": null,
+    "imagen": null,
+    "idServicio": null,
+    "descPerfil": null,
+    "comentarios": [
+        {
+            "idComentario": null,
+            "fechaComenta": null,
+            "emisor": null,
+            "evaluacion": null,
+            "mensaje": null,
+            "estatus": "ACTIVO"
+        }
+    ]
+}
